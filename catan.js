@@ -1,12 +1,6 @@
 /*
 Catan Board generator
 Generates random, playable boards for the board game Catan with the Seafarers expansion.
-
-TO ADD:
-- function to make sure ports are not overlapping
-- interactivity (buttons, options)
-- textures
-- seedable random number generator - so boards can be saved and recreated
 */
 
 //Get context linked to canvas element
