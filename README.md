@@ -1,4 +1,4 @@
-Seafarers Map Maker
+# Seafarers Map Maker
 
 Displays results of a Javascript map-making tool for the game "Catan" and its "Seafarers of Catan" expansion. 
 
